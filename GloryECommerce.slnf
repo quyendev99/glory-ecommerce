@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "GloryECommerce.sln",
+    "projects": [
+      "src\\GloryECommerce.Application\\GloryECommerce.Application.csproj",
+      "src\\GloryECommerce.Domain\\GloryECommerce.Domain.csproj",
+      "src\\GloryECommerce.Infrastructure\\GloryECommerce.Infrastructure.csproj",
+      "src\\GloryECommerce.Presentation\\GloryECommerce.BlazorAdminDashboard\\GloryECommerce.BlazorAdminDashboard.csproj",
+      "src\\GloryECommerce.Presentation\\GloryECommerce.WebAPI\\GloryECommerce.WebAPI.csproj",
+      "src\\GloryECommerce.Presentation\\GloryECommerce.Web\\GloryECommerce.Web.csproj"
+    ]
+  }
+}
